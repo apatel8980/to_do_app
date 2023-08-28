@@ -13,11 +13,12 @@ body {
 
 a {
   text-decoration: none;
-  color: #000;
+  color: #32325D;
 }
 
 p {
   line-height: 1.7;
+  color: #32325D
 }
 
 ul {
@@ -33,6 +34,7 @@ h2,
 h3 {
   font-weight: 600;
   margin-bottom: 10px;
+  color: #32325D;
 }
 
 .container {
@@ -68,7 +70,7 @@ h3 {
 }
 
 .header ul li a:hover {
-  color: #777;
+  color: #5157E0;
 }
 
 .header ul li a svg {
@@ -93,7 +95,7 @@ h3 {
 }
 
 .goal {
-  background-color: #f4f4f4;
+  background-color: #F6F9FC;
   margin: 10px 0;
   padding: 20px 0 10px;
   position: relative;
@@ -123,24 +125,26 @@ h3 {
 .form-group select {
   width: 100%;
   padding: 10px;
-  border: 1px solid #e6e6e6;
+  border: 1px solid #5157E0;
   border-radius: 5px;
   margin-bottom: 10px;
   font-family: inherit;
+  color: #32325D;
 }
 
 .form-group label {
   text-align: left;
   display: block;
   margin: 0 0 5px 3px;
+  color: #32325D;
 }
 
 .btn {
   padding: 10px 20px;
-  border: 1px solid #000;
+  border: 1px solid #5157E0;
   border-radius: 5px;
-  background: #000;
-  color: #fff;
+  background: #635BFF;
+  color: #F6F9FC;
   font-size: 16px;
   font-weight: 700;
   cursor: pointer;
@@ -156,8 +160,8 @@ h3 {
 }
 
 .btn-reverse {
-  background: #fff;
-  color: #000;
+  background: #F6F9FC;
+  color: #32325D;
 }
 
 .btn-block {
